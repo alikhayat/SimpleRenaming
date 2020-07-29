@@ -1,0 +1,9 @@
+c:\users\pc035\documents\visual studio 2013\Projects\Renaming\Renaming\bin\Debug\Renaming.exe.config
+c:\users\pc035\documents\visual studio 2013\Projects\Renaming\Renaming\bin\Debug\Renaming.exe
+c:\users\pc035\documents\visual studio 2013\Projects\Renaming\Renaming\bin\Debug\Renaming.pdb
+c:\users\pc035\documents\visual studio 2013\Projects\Renaming\Renaming\bin\Debug\Renaming.xml
+c:\users\pc035\documents\visual studio 2013\Projects\Renaming\Renaming\obj\Debug\Renaming.Resources.resources
+c:\users\pc035\documents\visual studio 2013\Projects\Renaming\Renaming\obj\Debug\Renaming.vbproj.GenerateResource.Cache
+c:\users\pc035\documents\visual studio 2013\Projects\Renaming\Renaming\obj\Debug\Renaming.exe
+c:\users\pc035\documents\visual studio 2013\Projects\Renaming\Renaming\obj\Debug\Renaming.xml
+c:\users\pc035\documents\visual studio 2013\Projects\Renaming\Renaming\obj\Debug\Renaming.pdb
